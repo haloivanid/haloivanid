@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NodeJs and NestJs**
 
-- 📫 How to reach me **ivan.azis@codify.id**
+- 📫 How to reach me **ivan.azis@futr.asia**
 
 - ⚡ Fun fact **Really like about solo traveling**
 

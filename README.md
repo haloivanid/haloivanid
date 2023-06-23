@@ -1,7 +1,7 @@
 <h1 align="center">Hy there, 👋🏻 I'm Ivan Azis Nabawi</h1>
 <h3 align="center">A spirited backend developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haloivanid&theme=algolia&column=7&margin-w=10&margin-h=10" alt="haloivanid" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=haloivanid&theme=algolia&column=4&margin-w=10&margin-h=10" alt="haloivanid" /></p>
 
 - 🔭 I’m currently working with [Kelola-Tech](https://github.com/kelola-tech)
 

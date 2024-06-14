@@ -53,6 +53,5 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haloivanid&show_icons=true&locale=en&layout=compact" alt="haloivanid" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haloivanid&show_icons=true&locale=en" alt="haloivanid" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haloivanid&" alt="haloivanid" /></p>
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haloivanid&" alt="haloivanid" />
+<img align="left" src="https://leetcard.jacoblin.cool/haloivanid?theme=nord&font=Fira%20Code" alt="haloivanid" />

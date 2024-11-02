@@ -1,57 +1,36 @@
-<h1 align="center">Hy there, 👋🏻 I'm Ivan Azis Nabawi</h1>
-<h3 align="center">A spirited backend developer</h3>
+![👋 Hi, my name is Ivan Azis](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Ivan Azis
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=haloivanid&theme=algolia&column=4&margin-w=10&margin-h=10" alt="haloivanid" /></p>
+**<h3 align="left">Connect with me:</h3>**
+<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://github.com/haloivanid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ivanazis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.instagram.com/halo.ivan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="ivanazisid" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="32" style="margin-right: 4px"></a></p>
 
-- 🔭 I’m currently working with [Kelola-Tech](https://github.com/kelola-tech)
+**<h3 align="left">I am a Backend Developer with over 3 years of experience in software and web development. I have a proven track record in building scalable APIs, managing SaaS solutions, and problem-solving in complex projects. My expertise includes backend architecture, code refactoring, and integrating diverse services. I have a strong and unwavering passion for learning new technologies and optimizing performance, which has been a critical factor in my contributions to multiple successful projects, improving efficiency and driving results for various companies in Indonesia.</h3>**
 
-- 🌱 I’m currently learning **Typescript, Python**
+**<h3 align="left">Rapid Fire</h3>**
 
-- 🆘 I'm needed help in [Jarada Project](https://github.com/jarada-tech)
+- 💼 I'm currently working on: **💻 Developing a SaaS warehouse management system**
+- 💬 Ask me about: **💡 JavaScript, TypeScript, NodeJS, MySQL, SaaS**
 
-- 💬 Ask me about **NodeJs and NestJs**
+**<h3 align="left">Skills</h3>**
 
-- 📫 How to reach me **ivan.azis@futr.asia**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=white" height="32" alt="TypeORM" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="32" alt="Mongoose" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="32" alt="NestJS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="32" alt="Google Cloud" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="32" alt="Jest" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" height="32" alt="Mocha" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="32" alt="Cypress" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"></div>
 
-- ⚡ Fun fact **Really like about solo traveling**
+**<h3 align="left">GitHub Stats</h3>**
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://fastify.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/fastify/graphics/raw/master/fastify-1000px-square-01.png" alt="fastify" width="40" height="40"/> </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-    <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
-    <a href="https://rancher.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="rancher" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://pop.system76.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" alt="popos" width="40" height="40"/> </a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://herku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-    <a href="https://railway.app" target="_blank" rel="noreferrer"> <img src="https://railway.app/brand/logo-light.svg" alt="railway" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haloivanid&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=haloivanid&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haloivanid&show_icons=true&locale=en&layout=compact" alt="haloivanid" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haloivanid&" alt="haloivanid" />
-<img align="left" src="https://leetcard.jacoblin.cool/haloivanid?theme=nord&font=Fira%20Code" alt="haloivanid" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haloivanid&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+

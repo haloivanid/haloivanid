@@ -1,4 +1,4 @@
-![👋 Hi, my name is Ivan Azis](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
+![👋 Hi, my name is Ivan Azis](https://res.cloudinary.com/dptmou5k7/image/upload/v1782787715/lofi_ljhy0u.png)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
